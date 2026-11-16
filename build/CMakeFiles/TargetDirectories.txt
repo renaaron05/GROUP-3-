@@ -1,0 +1,5 @@
+C:/Users/huawei/Downloads/GROUP_03_PROJECT/build/CMakeFiles/GROUP_03_CAR_DEALERSHIP.dir
+C:/Users/huawei/Downloads/GROUP_03_PROJECT/build/CMakeFiles/edit_cache.dir
+C:/Users/huawei/Downloads/GROUP_03_PROJECT/build/CMakeFiles/rebuild_cache.dir
+C:/Users/huawei/Downloads/GROUP_03_PROJECT/build/CMakeFiles/GROUP_03_CAR_DEALERSHIP_autogen_timestamp_deps.dir
+C:/Users/huawei/Downloads/GROUP_03_PROJECT/build/CMakeFiles/GROUP_03_CAR_DEALERSHIP_autogen.dir

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\GROUP_03_CAR_DEALERSHIP.dir/objects.a
+C:\Qt\Tools\mingw1310_64\bin\ar.exe qc CMakeFiles\GROUP_03_CAR_DEALERSHIP.dir/objects.a @CMakeFiles\GROUP_03_CAR_DEALERSHIP.dir\objects1.rsp
+C:\Qt\Tools\mingw1310_64\bin\g++.exe -mwindows -Wl,--whole-archive CMakeFiles\GROUP_03_CAR_DEALERSHIP.dir/objects.a -Wl,--no-whole-archive -o GROUP_03_CAR_DEALERSHIP.exe -Wl,--out-implib,libGROUP_03_CAR_DEALERSHIP.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\GROUP_03_CAR_DEALERSHIP.dir\linkLibs.rsp
